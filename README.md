@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arnaud-roudiere
+- 👋 Hi, I’m Arnaud
 - 👀 I’m interested in Data, Programming and Rum blending !
 - 🌱 I’m currently learning Advance Python.
 - 💞️ I’m looking to collaborate on NLP projects.
