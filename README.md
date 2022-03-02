@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnaud
 - 👀 I’m interested in Data, Programming and Rum blending !
-- 🌱 I’m currently learning App Developemnt in Python with Django.
+- 🌱 I’m currently studying a bachelor in Python/Django programming with Openclassroom.
 - 💞️ I’m looking to collaborate on Data and back-end projects, especially with NLP technology.
 - 📫 How to reach me by email : arnaud.roudiere@gmail.com
 
